@@ -1,0 +1,22 @@
+body {
+    background-image: url("background-blur-clean-531880.jpg");
+}
+
+#A1{
+    text-align: center;
+    font-size: 10em; 
+}
+
+p{
+    margin: 200px;
+    font-size: 40px;
+    color:red;
+}
+img {
+    top: 200px;
+    right: 200px;
+    transform: rotate(180deg);
+    background-image:url(IMG_3752.jpg);
+    background-position:center;
+
+}
